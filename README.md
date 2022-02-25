@@ -58,11 +58,11 @@ __Test input__: [16,21,11,8,12,22]
 
     Sorted list is: [8, 11, 12, 16, 21, 22]
 
-| Case      | Time Complexity $^1$   |
+| Case      | Time Complexity   |
 |-          | -                 |
-| Best      | $O(n log(n))$    |
-| Average   | $O(n log(n))$  |
-| Worst     | $O(n log(n))$  |
+| Best      | O(n log(n))  |
+| Average   | O(n log(n))  |
+| Worst     | O(n log(n))  |
 
 
-$^1$ _Time complexity reference: [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)_
+_Time complexity reference: [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)_
